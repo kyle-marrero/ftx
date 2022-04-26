@@ -1,2 +1,0 @@
-/Library/Developer/CommandLineTools/usr/bin/ar qc libutil.a CMakeFiles/util.dir/HTTP.cc.o CMakeFiles/util.dir/WS.cc.o
-/Library/Developer/CommandLineTools/usr/bin/ranlib libutil.a
